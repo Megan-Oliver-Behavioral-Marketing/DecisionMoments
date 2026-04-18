@@ -11,7 +11,7 @@
   <link rel="icon" href="Decision Moments Favicon.png" type="image/png" />
 
   <!-- Stylesheet -->
-  <link rel="stylesheet" href="core-framework.css" />
+ <link rel="stylesheet" href="site.css" />
 
   <title>Decision Moments</title>
 
